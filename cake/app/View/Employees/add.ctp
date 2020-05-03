@@ -3,7 +3,7 @@
 	<fieldset>
 		<legend><?php echo __('Add Employee'); ?></legend>
 	<?php
-		$options = array('etat1' =>'DYREKTOR', 'etat2' =>'PROFESOR','etat3' => 'ADIUNKT','etat4' => 'SEKRETARKA','etat5' => 'DOKTORANT');
+		$options = array('DYREKTOR' =>'DYREKTOR', 'PROFESOR' =>'PROFESOR','ADIUNKT' => 'ADIUNKT','SEKRETARKA' => 'SEKRETARKA','DOKTORANT' => 'DOKTORANT');
 		echo $this->Form->input('nazwisko');
 		echo $this->Form->input('imie');
 		echo $this->Form->input('etat',
