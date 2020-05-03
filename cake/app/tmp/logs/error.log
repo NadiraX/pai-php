@@ -1,0 +1,254 @@
+2020-05-03 19:51:30 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => NULL,
+)
+Request URL: /cake/user
+Stack Trace:
+#0 C:\xampp\htdocs\cake\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-05-03 19:51:30 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => NULL,
+)
+Request URL: /cake/user
+Stack Trace:
+#0 C:\xampp\htdocs\cake\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-05-03 20:28:16 Error: [MissingControllerException] Controller class EController could not be found.
+Exception Attributes: array (
+  'class' => 'EController',
+  'plugin' => NULL,
+)
+Request URL: /cake/e
+Stack Trace:
+#0 C:\xampp\htdocs\cake\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-05-03 20:28:17 Error: [MissingControllerException] Controller class EmController could not be found.
+Exception Attributes: array (
+  'class' => 'EmController',
+  'plugin' => NULL,
+)
+Request URL: /cake/em
+Stack Trace:
+#0 C:\xampp\htdocs\cake\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-05-03 20:28:18 Error: [MissingControllerException] Controller class EmlController could not be found.
+Exception Attributes: array (
+  'class' => 'EmlController',
+  'plugin' => NULL,
+)
+Request URL: /cake/eml
+Stack Trace:
+#0 C:\xampp\htdocs\cake\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-05-03 20:28:18 Error: [MissingControllerException] Controller class EmloController could not be found.
+Exception Attributes: array (
+  'class' => 'EmloController',
+  'plugin' => NULL,
+)
+Request URL: /cake/emlo
+Stack Trace:
+#0 C:\xampp\htdocs\cake\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-05-03 20:28:19 Error: [MissingControllerException] Controller class EmloyController could not be found.
+Exception Attributes: array (
+  'class' => 'EmloyController',
+  'plugin' => NULL,
+)
+Request URL: /cake/emloy
+Stack Trace:
+#0 C:\xampp\htdocs\cake\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-05-03 20:28:19 Error: [MissingControllerException] Controller class EmloyeController could not be found.
+Exception Attributes: array (
+  'class' => 'EmloyeController',
+  'plugin' => NULL,
+)
+Request URL: /cake/emloye
+Stack Trace:
+#0 C:\xampp\htdocs\cake\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-05-03 20:28:20 Error: [MissingControllerException] Controller class EmloyerController could not be found.
+Exception Attributes: array (
+  'class' => 'EmloyerController',
+  'plugin' => NULL,
+)
+Request URL: /cake/emloyer
+Stack Trace:
+#0 C:\xampp\htdocs\cake\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-05-03 20:28:20 Error: [MissingControllerException] Controller class EmloyesController could not be found.
+Exception Attributes: array (
+  'class' => 'EmloyesController',
+  'plugin' => NULL,
+)
+Request URL: /cake/emloyes
+Stack Trace:
+#0 C:\xampp\htdocs\cake\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-05-03 20:28:20 Error: [MissingControllerException] Controller class EmloyesController could not be found.
+Exception Attributes: array (
+  'class' => 'EmloyesController',
+  'plugin' => NULL,
+)
+Request URL: /cake/emloyes
+Stack Trace:
+#0 C:\xampp\htdocs\cake\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-05-03 20:28:49 Error: Fatal Error (64): Cannot redeclare Employee::$validate in [C:\xampp\htdocs\cake\app\Model\Employee.php, line 9]
+2020-05-03 20:28:49 Error: [FatalErrorException] Cannot redeclare Employee::$validate
+Request URL: /cake/employees/add
+Stack Trace:
+#0 C:\xampp\htdocs\cake\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'C:\\xampp\\htdocs...', 9)
+#1 C:\xampp\htdocs\cake\lib\Cake\Core\App.php(970): ErrorHandler::handleError(64, 'Cannot redeclar...', 'C:\\xampp\\htdocs...', 9, Array)
+#2 C:\xampp\htdocs\cake\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-05-03 20:28:53 Error: Fatal Error (64): Cannot redeclare Employee::$validate in [C:\xampp\htdocs\cake\app\Model\Employee.php, line 9]
+2020-05-03 20:28:53 Error: [FatalErrorException] Cannot redeclare Employee::$validate
+Request URL: /cake/employees
+Stack Trace:
+#0 C:\xampp\htdocs\cake\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'C:\\xampp\\htdocs...', 9)
+#1 C:\xampp\htdocs\cake\lib\Cake\Core\App.php(970): ErrorHandler::handleError(64, 'Cannot redeclar...', 'C:\\xampp\\htdocs...', 9, Array)
+#2 C:\xampp\htdocs\cake\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-05-03 20:29:06 Error: Fatal Error (64): Cannot redeclare Employee::$validate in [C:\xampp\htdocs\cake\app\Model\Employee.php, line 9]
+2020-05-03 20:29:06 Error: [FatalErrorException] Cannot redeclare Employee::$validate
+Request URL: /cake/employees
+Stack Trace:
+#0 C:\xampp\htdocs\cake\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'C:\\xampp\\htdocs...', 9)
+#1 C:\xampp\htdocs\cake\lib\Cake\Core\App.php(970): ErrorHandler::handleError(64, 'Cannot redeclar...', 'C:\\xampp\\htdocs...', 9, Array)
+#2 C:\xampp\htdocs\cake\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-05-03 20:33:52 Error: [ParseError] syntax error, unexpected ','
+Request URL: /cake/employees
+Stack Trace:
+#0 [internal function]: App::load('Employee')
+#1 [internal function]: spl_autoload_call('Employee')
+#2 C:\xampp\htdocs\cake\lib\Cake\Utility\ClassRegistry.php(146): class_exists('Employee')
+#3 C:\xampp\htdocs\cake\lib\Cake\Controller\Controller.php(746): ClassRegistry::init('Employee')
+#4 C:\xampp\htdocs\cake\lib\Cake\Controller\Controller.php(376): Controller->loadModel('Employee')
+#5 C:\xampp\htdocs\cake\lib\Cake\Controller\Controller.php(414): Controller->__isset('Employee')
+#6 C:\xampp\htdocs\cake\app\Controller\EmployeesController.php(24): Controller->__get('Employee')
+#7 [internal function]: EmployeesController->index()
+#8 C:\xampp\htdocs\cake\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EmployeesController), Array)
+#9 C:\xampp\htdocs\cake\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\xampp\htdocs\cake\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EmployeesController), Object(CakeRequest))
+#11 C:\xampp\htdocs\cake\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2020-05-03 20:34:49 Error: [ParseError] syntax error, unexpected ','
+Request URL: /cake/employees
+Stack Trace:
+#0 [internal function]: App::load('Employee')
+#1 [internal function]: spl_autoload_call('Employee')
+#2 C:\xampp\htdocs\cake\lib\Cake\Utility\ClassRegistry.php(146): class_exists('Employee')
+#3 C:\xampp\htdocs\cake\lib\Cake\Controller\Controller.php(746): ClassRegistry::init('Employee')
+#4 C:\xampp\htdocs\cake\lib\Cake\Controller\Controller.php(376): Controller->loadModel('Employee')
+#5 C:\xampp\htdocs\cake\lib\Cake\Controller\Controller.php(414): Controller->__isset('Employee')
+#6 C:\xampp\htdocs\cake\app\Controller\EmployeesController.php(24): Controller->__get('Employee')
+#7 [internal function]: EmployeesController->index()
+#8 C:\xampp\htdocs\cake\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EmployeesController), Array)
+#9 C:\xampp\htdocs\cake\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\xampp\htdocs\cake\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EmployeesController), Object(CakeRequest))
+#11 C:\xampp\htdocs\cake\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2020-05-03 20:36:57 Error: [ParseError] syntax error, unexpected '.0' (T_DNUMBER), expecting ')'
+Request URL: /cake/employees
+Stack Trace:
+#0 [internal function]: App::load('Employee')
+#1 [internal function]: spl_autoload_call('Employee')
+#2 C:\xampp\htdocs\cake\lib\Cake\Utility\ClassRegistry.php(146): class_exists('Employee')
+#3 C:\xampp\htdocs\cake\lib\Cake\Controller\Controller.php(746): ClassRegistry::init('Employee')
+#4 C:\xampp\htdocs\cake\lib\Cake\Controller\Controller.php(376): Controller->loadModel('Employee')
+#5 C:\xampp\htdocs\cake\lib\Cake\Controller\Controller.php(414): Controller->__isset('Employee')
+#6 C:\xampp\htdocs\cake\app\Controller\EmployeesController.php(24): Controller->__get('Employee')
+#7 [internal function]: EmployeesController->index()
+#8 C:\xampp\htdocs\cake\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EmployeesController), Array)
+#9 C:\xampp\htdocs\cake\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\xampp\htdocs\cake\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EmployeesController), Object(CakeRequest))
+#11 C:\xampp\htdocs\cake\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2020-05-03 20:37:15 Error: [ParseError] syntax error, unexpected '0' (T_LNUMBER), expecting ')'
+Request URL: /cake/employees
+Stack Trace:
+#0 [internal function]: App::load('Employee')
+#1 [internal function]: spl_autoload_call('Employee')
+#2 C:\xampp\htdocs\cake\lib\Cake\Utility\ClassRegistry.php(146): class_exists('Employee')
+#3 C:\xampp\htdocs\cake\lib\Cake\Controller\Controller.php(746): ClassRegistry::init('Employee')
+#4 C:\xampp\htdocs\cake\lib\Cake\Controller\Controller.php(376): Controller->loadModel('Employee')
+#5 C:\xampp\htdocs\cake\lib\Cake\Controller\Controller.php(414): Controller->__isset('Employee')
+#6 C:\xampp\htdocs\cake\app\Controller\EmployeesController.php(24): Controller->__get('Employee')
+#7 [internal function]: EmployeesController->index()
+#8 C:\xampp\htdocs\cake\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EmployeesController), Array)
+#9 C:\xampp\htdocs\cake\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\xampp\htdocs\cake\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EmployeesController), Object(CakeRequest))
+#11 C:\xampp\htdocs\cake\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2020-05-03 20:37:16 Error: [ParseError] syntax error, unexpected '0' (T_LNUMBER), expecting ')'
+Request URL: /cake/employees
+Stack Trace:
+#0 [internal function]: App::load('Employee')
+#1 [internal function]: spl_autoload_call('Employee')
+#2 C:\xampp\htdocs\cake\lib\Cake\Utility\ClassRegistry.php(146): class_exists('Employee')
+#3 C:\xampp\htdocs\cake\lib\Cake\Controller\Controller.php(746): ClassRegistry::init('Employee')
+#4 C:\xampp\htdocs\cake\lib\Cake\Controller\Controller.php(376): Controller->loadModel('Employee')
+#5 C:\xampp\htdocs\cake\lib\Cake\Controller\Controller.php(414): Controller->__isset('Employee')
+#6 C:\xampp\htdocs\cake\app\Controller\EmployeesController.php(24): Controller->__get('Employee')
+#7 [internal function]: EmployeesController->index()
+#8 C:\xampp\htdocs\cake\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EmployeesController), Array)
+#9 C:\xampp\htdocs\cake\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\xampp\htdocs\cake\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EmployeesController), Object(CakeRequest))
+#11 C:\xampp\htdocs\cake\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2020-05-03 20:38:15 Error: [ParseError] syntax error, unexpected '0' (T_LNUMBER), expecting ')'
+Request URL: /cake/employees
+Stack Trace:
+#0 [internal function]: App::load('Employee')
+#1 [internal function]: spl_autoload_call('Employee')
+#2 C:\xampp\htdocs\cake\lib\Cake\Utility\ClassRegistry.php(146): class_exists('Employee')
+#3 C:\xampp\htdocs\cake\lib\Cake\Controller\Controller.php(746): ClassRegistry::init('Employee')
+#4 C:\xampp\htdocs\cake\lib\Cake\Controller\Controller.php(376): Controller->loadModel('Employee')
+#5 C:\xampp\htdocs\cake\lib\Cake\Controller\Controller.php(414): Controller->__isset('Employee')
+#6 C:\xampp\htdocs\cake\app\Controller\EmployeesController.php(24): Controller->__get('Employee')
+#7 [internal function]: EmployeesController->index()
+#8 C:\xampp\htdocs\cake\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EmployeesController), Array)
+#9 C:\xampp\htdocs\cake\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\xampp\htdocs\cake\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EmployeesController), Object(CakeRequest))
+#11 C:\xampp\htdocs\cake\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2020-05-03 20:38:16 Error: [ParseError] syntax error, unexpected '0' (T_LNUMBER), expecting ')'
+Request URL: /cake/employees
+Stack Trace:
+#0 [internal function]: App::load('Employee')
+#1 [internal function]: spl_autoload_call('Employee')
+#2 C:\xampp\htdocs\cake\lib\Cake\Utility\ClassRegistry.php(146): class_exists('Employee')
+#3 C:\xampp\htdocs\cake\lib\Cake\Controller\Controller.php(746): ClassRegistry::init('Employee')
+#4 C:\xampp\htdocs\cake\lib\Cake\Controller\Controller.php(376): Controller->loadModel('Employee')
+#5 C:\xampp\htdocs\cake\lib\Cake\Controller\Controller.php(414): Controller->__isset('Employee')
+#6 C:\xampp\htdocs\cake\app\Controller\EmployeesController.php(24): Controller->__get('Employee')
+#7 [internal function]: EmployeesController->index()
+#8 C:\xampp\htdocs\cake\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EmployeesController), Array)
+#9 C:\xampp\htdocs\cake\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\xampp\htdocs\cake\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EmployeesController), Object(CakeRequest))
+#11 C:\xampp\htdocs\cake\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2020-05-03 20:38:38 Error: [ParseError] syntax error, unexpected '0' (T_LNUMBER), expecting ')'
+Request URL: /cake/employees
+Stack Trace:
+#0 [internal function]: App::load('Employee')
+#1 [internal function]: spl_autoload_call('Employee')
+#2 C:\xampp\htdocs\cake\lib\Cake\Utility\ClassRegistry.php(146): class_exists('Employee')
+#3 C:\xampp\htdocs\cake\lib\Cake\Controller\Controller.php(746): ClassRegistry::init('Employee')
+#4 C:\xampp\htdocs\cake\lib\Cake\Controller\Controller.php(376): Controller->loadModel('Employee')
+#5 C:\xampp\htdocs\cake\lib\Cake\Controller\Controller.php(414): Controller->__isset('Employee')
+#6 C:\xampp\htdocs\cake\app\Controller\EmployeesController.php(24): Controller->__get('Employee')
+#7 [internal function]: EmployeesController->index()
+#8 C:\xampp\htdocs\cake\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EmployeesController), Array)
+#9 C:\xampp\htdocs\cake\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\xampp\htdocs\cake\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EmployeesController), Object(CakeRequest))
+#11 C:\xampp\htdocs\cake\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
